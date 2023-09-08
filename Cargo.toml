@@ -1,0 +1,11 @@
+[package]
+name = "polodb_rust"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+gnuplot = "0.0.39"
+polodb_core = "4.4.0"
+serde = "1.0.188"
